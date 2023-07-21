@@ -17,3 +17,4 @@ The Brainwave-Powered Student State Detector is a project that aims to accuratel
 ![image](https://github.com/Tharoonaskar22/NeuroCheck/assets/126347533/665d0104-bef3-4416-b416-f3c5e622f12e)
 ![image](https://github.com/Tharoonaskar22/NeuroCheck/assets/126347533/dc4274df-4c94-4df0-9d5b-b8307a509c19)
 ![image](https://github.com/Tharoonaskar22/NeuroCheck/assets/126347533/f20b2e25-db1c-47c6-8c00-0d402e490140)
+![image](https://github.com/Tharoonaskar22/NeuroCheck/assets/126347533/ecf562ad-16f8-4edb-a656-189980710856)
